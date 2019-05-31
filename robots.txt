@@ -1,4 +1,4 @@
 User-agent: *
 #Disallow: /
 
-sitemap: https://mark.janiczak.me/sitemap.txt
+sitemap: https://mark.janiczak.me/sitemap.xml
